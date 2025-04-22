@@ -7,3 +7,5 @@ statsmodels
 scikit-learn
 pingouin
 factor-analyzer
+plotly
+nbformat
